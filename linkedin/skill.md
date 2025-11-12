@@ -1,7 +1,6 @@
 ---
 name: linkedin-intelligence
-description: LinkedIn data extraction workflow for profile research, posts analysis, and interaction tracking. Handles LinkedIn profile URL discovery, detailed profile scraping, post extraction, and engagement analysis.
-Gives the list of tools and Apify actors to use.
+description: LinkedIn data extraction workflow for profile research, posts analysis, and interaction tracking. Handles LinkedIn profile URL discovery, detailed profile scraping, post extraction, and engagement analysis. Gives the list of tools and Apify actors to use.
 ---
 
 # LinkedIn Intelligence Skill
